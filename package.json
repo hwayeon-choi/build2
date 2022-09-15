@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hwayeon-choi/build2/issues"
   },
-  "homepage": "https://github.com/hwayeon-choi/build2#readme"
+  "homepage": "https://github.com/hwayeon-choi/build2#readme",
+  "dependencies": {
+    "react": "^18.2.0"
+  }
 }
